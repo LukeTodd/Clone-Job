@@ -1,0 +1,75 @@
+.padding-top{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.bg-img{
+  background-image: url("https://images.unsplash.com/photo-1515703407324-5f753afd8be8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.team-blue{
+  color:#013f71;
+  text-shadow: 1px 1px black; 
+}
+
+.btn-primary{
+background-color: #013f71;
+text-align: center;
+}
+
+.team-blue-background{
+  background-color: #013f71;
+}
+
+.h1{
+  text-align: center;
+}
+
+.bg-red{
+  background-color: #460a16;
+}
+
+.text-footer{
+  color: white;
+}
+
+.pacifico{
+  font-family: "Pacifico", cursive;
+}
+
+.card{
+  border: none;
+}
+
+.card-img-top{
+  height: 250px;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.name-border{
+  border-bottom-width: 5px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+}
+
+.fa{
+  color: #013f71;
+  font-size: 40px;
+  text-shadow: 1px 1px black;
+}
+.footer-color{
+  color: #013f71;
+  font-size: 13px;
+  text-shadow: 1px 1px black;
+}
